@@ -1,1 +1,1 @@
-- 👋 Team-Lead for Front-End and XR Development @ Code Nation
+- 👋 Nothing to see here.
